@@ -7,8 +7,8 @@
   background-color: #00cc99; }
 
 .box {
-  width: 20px;
-  height: 20px;
+  width: 100px;
+  height: 100px;
   background-color: red;
   display: -webkit-box;
   display: -ms-flexbox;
